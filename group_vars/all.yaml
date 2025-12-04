@@ -1,0 +1,6 @@
+smtp_server: "smtp.gmail.com"
+smtp_port: 587
+email_user: "ishanktrips@gmail.com"
+email_pass: "zrvd bhsg ydtz cfpn "
+alert_recipient: "sridivyakanukuntla9@gmail.com"
+
